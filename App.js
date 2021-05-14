@@ -28,6 +28,7 @@ import SearchResultsScreen from './src/screens/Searchresults/index';
 import Post from './src/components/posts';
 import feed from './assets/data/feed';
 import DestinationSearch from './src/screens/DestinationSearch';
+import JobTypeScreen from './src/screens/Types';
 
 const post1 = feed[0];
 
@@ -47,8 +48,8 @@ const App: () => Node = () => {
     {/*<Homescreen />*/}
     {/*<Post post={post1}/>*/} 
      {/*<SearchResultsScreen/>*/}
-     <DestinationSearch/>
-
+     {/*<DestinationSearch/>*/}
+      <JobTypeScreen/>
     </SafeAreaView>
     </>
   );
