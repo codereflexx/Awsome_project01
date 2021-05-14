@@ -1,15 +1,15 @@
 export default [
     {
       id: '0',
-      description: 'Sindri,Dhanbad',
+      description: 'Sindri,DHANBAD',
     },
     {
       id: '1',
-      description: 'Ranchi,jharkhand',
+      description: 'Ranchi,JHARKHAND',
     },
     {
       id: '2',
-      description: 'Patna city,Bihar',
+      description: 'Patna city,BIHAR',
     },
     {
       id: '3',
@@ -17,6 +17,6 @@ export default [
     },
     {
       id: '4',
-      description: 'Mithapur,Patna,Bihar',
+      description: 'Mithapur,Patna,BIHAR',
     },
   ];
