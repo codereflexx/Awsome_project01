@@ -46,7 +46,7 @@ const App: () => Node = () => {
       
     {/*<Homescreen />*/}
     {/*<Post post={post1}/>*/} 
-     {/*<SearchResultsScreen/>*/}
+     <SearchResultsScreen/>
      <DestinationSearch/>
 
     </SafeAreaView>
