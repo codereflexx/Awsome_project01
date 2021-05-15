@@ -43,7 +43,7 @@ searchButton: {
    borderRadius: 30,
    justifyContent: 'center',
    alignItems: 'center',
-   top: 20,
+   top: 50,
    position: 'absolute',
    zIndex: 100,
 
